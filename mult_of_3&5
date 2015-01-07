@@ -1,0 +1,13 @@
+def multiples(num)
+  sum = 0
+  count = 1
+  while count < num
+    if count % 3 == 0 || count % 5 == 0
+      sum += count
+    end
+    count+=1
+  end
+  sum
+end
+
+p multiples(1000)
