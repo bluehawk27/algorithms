@@ -1,3 +1,4 @@
-# Euler
-This is my attempt to work through the Euler project problems in Ruby.
-  
+# Algorithms
+This is my attempt to work through some common algorithms.
+
+
