@@ -1,5 +1,5 @@
 //nth fibanocci
-function Fibanocci(n) {
+function fibanocci(n) {
   var result = [0,1]
 
   for(var i = 1; i < n; i++){
@@ -8,5 +8,5 @@ function Fibanocci(n) {
   return result[n];
 }
 
-console.log(Fibanocci(10))
+console.log(fibanocci(10))
 //55
