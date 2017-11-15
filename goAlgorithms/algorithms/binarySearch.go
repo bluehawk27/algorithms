@@ -1,4 +1,4 @@
-package Algorithms
+package algorithms
 
 func BinarySearch(ints []int, targetValue int) int {
 	min := 0
